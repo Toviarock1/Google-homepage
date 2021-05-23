@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border:  0.5px solid red;
+}
+/* header */
+header{
+    padding: 12px;
+    height: 72px;
+}
+header nav{
+    height: 47px;
+}
+header nav ul {
+    display: flex;
+    float: right;
+}
+header nav ul li{
+    list-style: none;
+    color: black;
+    padding: 5px;    
+}
+header nav ul li a{
+    color: #272727;
+    text-decoration: none;
+    font-size: 13px;
+}
+.header_img1{
+    width: 26px;
+}
+.header_text{
+    padding-top: 9px;
+}
+.header_avater{
+    width: 32px;
+}
+.padding0{
+    padding-top: 0px;
+}
+.header_img1_li{
+    margin: 0px 10px;
+}
