@@ -41,21 +41,21 @@ header nav ul li a {
   margin: 0px 10px;
 }
 .header_img1_li:hover {
-  background-color: rgba(60,64,67,0.08);
+  background-color: rgba(60, 64, 67, 0.08);
   border-radius: 17px;
   align-items: center;
   display: flex;
   transition: 1s;
 }
 .padding0:hover {
-  background-color: rgba(60,64,67,0.08);
+  background-color: rgba(60, 64, 67, 0.08);
   border-radius: 17px;
   align-items: center;
   display: flex;
   transition: 1s;
 }
 
-main{
+main {
   min-height: 416px;
 }
 .center {
@@ -141,7 +141,7 @@ footer {
   list-style: none;
   margin: 5px;
 }
-hr{
+hr {
   border: 0.1px solid #868686;
 }
 footer a {
@@ -149,9 +149,9 @@ footer a {
   color: #868686;
 }
 
-a:hover{
+a:hover {
   text-decoration: underline;
 }
-a{
+a {
   text-decoration: none;
 }
